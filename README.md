@@ -43,7 +43,7 @@
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
   <h2>Author</h2>
-  <p><a href="https://github.com/your-username">Your Name</a></p>
+  <p><a href="https://github.com/your-username">Ekansh <br> Deepanshu beta <br> Aashish <br> Divyansh </a></p>
 </body>
 
 </html>
